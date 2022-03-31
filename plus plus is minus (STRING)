@@ -26,11 +26,14 @@ int main()
                         flag=1; break;
                     }
                 }
+                
             }
         }
         if(flag==1) cout<<"NO"<<endl;
+        
         else cout<<"YES"<<endl;
     }
+    
     return 0;
 }
 
